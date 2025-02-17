@@ -16,14 +16,54 @@ h1{
 
 address{
     font-style: normal;
-<<<<<<< HEAD
     color: #000066;
 }
 
 mark{
     background-color: #a3a30f;
     color: #e5f90f;
-=======
-    color: ;
->>>>>>> feeb1cc0490d3a3793975db9a6537eacb2f3fa5a
+}
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    text-align: left;
+    background-color: #6ebddf;
+    color: white;
+}
+
+h2{
+    color: #815601ec;
+    font-size: 1em;
+}
+.logo{
+    width: 50px;
+    margin-top: 50px;
+}
+
+.autore{
+    color: blue;
+}
+
+.descrizione{
+    font-size: 1em;
+}
+
+.paragrafo{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.lista{
+    padding-left: 18px;
+    margin-bottom: 18px;
+}
+
+.cella1{
+    width: 25%;
+}
+.cella2{
+    width: 50%;
 }
