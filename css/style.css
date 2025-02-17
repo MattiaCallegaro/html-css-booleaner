@@ -16,5 +16,10 @@ h1{
 
 address{
     font-style: normal;
-    color: ;
+    color: #000066;
+}
+
+mark{
+    background-color: #a3a30f;
+    color: #e5f90f;
 }
